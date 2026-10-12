@@ -1,4 +1,4 @@
-# Production Grade RAG Application
+# Enterprise Knowledge Assistant with Agentic RAG
 
 A production-ready AI application designed for high-accuracy document retrieval and generation (RAG). This application is built with hybrid search, re-ranking, and strict citation enforcement to ensure enterprise-level reliability.
 
